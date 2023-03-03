@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nom": "Produit 1",
+        "prix": 100,
+        "image": "/images/1.jpeg"
+    },
+    {
+        "id": 2,
+        "nom": "Produit 2",
+        "prix": 200,
+        "image": "/images/2.jpeg"
+    },
+    {
+        "id": 3,
+        "nom": "Produit 3",
+        "prix": 300,
+        "image": "/images/3.jpeg"
+    },
+    {
+        "id": 4,
+        "nom": "Produit 4",
+        "prix": 400,
+        "image": "/images/4.jpeg"
+    },
+    {
+        "id": 5,
+        "nom": "Produit 5",
+        "prix": 500,
+        "image": "/images/5.jpeg"
+    },
+    {
+        "id": 6,
+        "nom": "Produit 6",
+        "prix": 600,
+        "image": "/images/6.jpeg"
+    }
+]
